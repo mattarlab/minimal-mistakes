@@ -1,10 +1,10 @@
 # main links
 main:
   - title: "about"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://mattarlab.github.io/minimal-mistakes/about/
   - title: "team"
-    url: /year-archive/
+    url: https://mattarlab.github.io/minimal-mistakes/team/
   - title: "publications"
-    url: /collection-archive/
+    url: https://mattarlab.github.io/minimal-mistakes/publications/
   - title: "blog"
-    url: /sitemap/
+    url: https://mattarlab.github.io/minimal-mistakes/blog/
