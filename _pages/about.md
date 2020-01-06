@@ -2,7 +2,7 @@
 defaults:
   # _pages
   - scope:
-      permalink: /minimal-mistakes/about/ 
+      permalink: https://mattarlab.github.io/minimal-mistakes/about/
       type: pages
     values:
       layout: single
