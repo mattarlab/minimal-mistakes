@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "about"
-    url: https://mattarlab.github.io/minimal-mistakes/about/
+    url: /about/
   - title: "team"
     url: https://mattarlab.github.io/minimal-mistakes/team/
   - title: "publications"
