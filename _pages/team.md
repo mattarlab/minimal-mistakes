@@ -11,8 +11,6 @@ feature_row:
     excerpt: "CogSci Grad Student"
   - image_path: /assets/images/MarceloMattar.png
     title: "You?"
-  - image_path: /assets/images/MarceloMattar.png
-    title: "You?"
 ---
 <br>
 <br>
