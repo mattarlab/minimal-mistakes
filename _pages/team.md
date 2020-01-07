@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: page
+layout: single
 permalink: /team/
 feature_row1:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
