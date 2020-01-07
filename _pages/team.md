@@ -2,7 +2,8 @@
 title: Team
 layout: single
 permalink: /team/
-feature_row1:
+---
+<!-- feature_row1:
   - image_path: https://mattarlab.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
     title: "Katie Name"
     excerpt: " CogSci Graduate Student"
@@ -13,4 +14,8 @@ feature_row1:
     title: "Chris Name"
     excerpt: "CS Grad Student"
 ---
-{% include feature_row1 %}
+{% include feature_row1 %} -->
+
+<h4>
+	This is some sample content.
+</h4>
