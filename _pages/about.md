@@ -9,5 +9,5 @@ permalink: /about/
 </h3>
 
 <h4>
-	This is some sample content that goes here with **Markdown** formatting.
+	This is some sample content.
 </h4>
