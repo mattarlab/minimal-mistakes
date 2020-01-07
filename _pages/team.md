@@ -13,4 +13,4 @@ feature_row1:
     title: "Chris Name"
     excerpt: "CS Grad Student"
 ---
-{% include feature_row1 %}
+<!-- {% include feature_row1 %} -->
