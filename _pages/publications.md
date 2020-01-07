@@ -1,6 +1,6 @@
 ---
 title: Publications
-layout: splash
+layout: single
 permalink: /publications/
 ---
 <section id="publications" class="container content-section text-left">
