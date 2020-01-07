@@ -17,5 +17,5 @@ feature_row:
 We are hiring! Reach out if you are interested in joining the lab as a grad student, postdoc, or research assistant.
 <br>
 <small>
-{% include feature_row font-size:small %}
+{% include feature_row %}
 
