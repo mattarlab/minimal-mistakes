@@ -3,8 +3,8 @@ main:
   - title: "about"
     url: /about/
   - title: "team"
-    url: https://mattarlab.github.io/minimal-mistakes/team/
+    url: /team/
   - title: "publications"
-    url: https://mattarlab.github.io/minimal-mistakes/publications/
+    url: /publications/
   - title: "blog"
-    url: https://mattarlab.github.io/minimal-mistakes/blog/
+    url: /blog/
