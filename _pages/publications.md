@@ -9,7 +9,7 @@ permalink: /publications/
       <h2 id="publications">Publications</h2>
 
 <p>Visit my <a href="https://scholar.google.com/citations?hl=en&amp;user=tcCGGDsZJUsC&amp;view_op=list_works&amp;sortby=pubdate" target="_blank">Google Scholar</a> page for an updated list of publications, or my <a href="http://github.com/marcelomattar" target="_blank">GitHub</a> for code relevant to previous and current projects.</p>
-
+<small>
 <!--
 ### Submitted
 
@@ -266,5 +266,5 @@ permalink: /publications/
     </div>
   </div>
 </section>
-
+</small>
 <!-- Publications End -->
