@@ -5,9 +5,9 @@ permalink: /about/
 ---
 
 <h3>
-	This is some sample content that goes here with **Markdown** formatting.
+	We use theoretical and experimental approaches to understand how we simulate the future to guide our decisions.
 </h3>
 
-<h3>
+<h4>
 	This is some sample content that goes here with **Markdown** formatting.
-</h3>
+</h4>
