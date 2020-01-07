@@ -3,7 +3,7 @@ title: Team
 layout: splash
 permalink: /team/
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: assets/images/MarceloMattar.png
     title: "Marcelo Mattar"
     excerpt: "PI"
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
@@ -14,13 +14,8 @@ feature_row:
 ---
 <br>
 <br>
-<br>
 We are hiring! Reach out if you are interested in joining the lab as a grad student, postdoc, or research assistant.
-
-<br>
-<br>
-<br>
 <br>
 <small>
-{% include feature_row font-size:$small %}
+{% include feature_row font-size:small %}
 
