@@ -1,6 +1,6 @@
 ---
 title: About the lab
-layout: splash
+layout: single
 permalink: /about/
 ---
 
