@@ -1,5 +1,5 @@
 ---
-title: Lab members
+title: Team
 layout: splash
 permalink: /team/
 feature_row:

@@ -3,7 +3,7 @@ title: Publications
 layout: splash
 permalink: /publications/
 ---
-<section id="publications" class="container content-section text-center">
+<section id="publications" class="container content-section text-left">
   <div class="row">
     <div class="col-md-10 col-md-offset-1">
       <h2 id="publications">Publications</h2>
