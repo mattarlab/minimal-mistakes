@@ -6,6 +6,6 @@ permalink: /about/
 <!-- <h2>
 	About the lab
 </h2> -->
-Regular text. Blah blah.
+Reinforcement learning, planning, memory, network neuroscience, computational neuroscience, probabilistic inference. 
 
-More stuff.
+How we learn predictive representations of the world and how we simulate the future when making a decision.
