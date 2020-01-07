@@ -1,6 +1,7 @@
 ---
 title: Publications
 layout: single
+classes: wide
 permalink: /publications/
 ---
 <section id="publications" class="container content-section text-left">
