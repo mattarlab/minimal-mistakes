@@ -13,19 +13,19 @@ feature_row:
     title: "You?"
 ---
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 We are hiring! Reach out if you are interested in joining the lab as a grad student, postdoc, or research assistant.
 
-<!-- feature_row:
-  - image_path: https://mattarlab.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-    title: "Katie Name"
-    excerpt: " CogSci Graduate Student"
-  - image_path: https://mattarlab.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-      title: "John Name""
-    excerpt: "Cogsci Grad Student"
-  - image_path: https://mattarlab.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
-    title: "Chris Name"
-    excerpt: "CS Grad Student" -->
-
+<br>
+<br>
+<br>
+<br>
+<small>
 {% include feature_row %}
-
+</small>
 This is some sample content.
