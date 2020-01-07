@@ -1,7 +1,12 @@
 ---
-title: Team
-layout: single
-permalink: /team/
+defaults:
+  # _pages
+  - scope:
+      path: "https://mattarlab.github.io/minimal-mistakes/team/"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
 ---
 <!-- feature_row1:
   - image_path: https://mattarlab.github.io/minimal-mistakes/assets/images/unsplash-gallery-image-2-th.jpg
