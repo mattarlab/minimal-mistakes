@@ -3,7 +3,7 @@ title: Team
 layout: splash
 permalink: /team/
 feature_row:
-  - image_path: assets/images/MarceloMattar.png
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     title: "Marcelo Mattar"
     excerpt: "PI"
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
