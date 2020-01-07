@@ -3,13 +3,13 @@ title: Team
 layout: splash
 permalink: /team/
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/MarceloMattar.png
     title: "Marcelo Mattar"
     excerpt: "PI"
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/MarceloMattar.png
     title: "Name"
     excerpt: "CogSci Grad Student"
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+  - image_path: /assets/images/MarceloMattar.png
     title: "You?"
 ---
 <br>
