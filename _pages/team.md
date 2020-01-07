@@ -13,8 +13,8 @@ feature_row:
     title: "You?"
 ---
 <br>
-<br>
 We are hiring! Reach out if you are interested in joining the lab as a grad student, postdoc, or research assistant.
+<br>
 <br>
 <small>
 {% include feature_row %}
