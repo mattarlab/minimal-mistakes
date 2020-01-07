@@ -12,13 +12,9 @@ feature_row:
   - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
     title: "You?"
 ---
-
 <br>
 <br>
 <br>
-<br>
-<br>
-
 We are hiring! Reach out if you are interested in joining the lab as a grad student, postdoc, or research assistant.
 
 <br>
@@ -26,6 +22,5 @@ We are hiring! Reach out if you are interested in joining the lab as a grad stud
 <br>
 <br>
 <small>
-{% include feature_row %}
-</small>
-This is some sample content.
+{% include feature_row font-size:$small %}
+
