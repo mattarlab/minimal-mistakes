@@ -1,6 +1,6 @@
 ---
-<!-- title: About the lab -->
-layout: single
+title: About the lab
+layout: splash
 permalink: /about/
 ---
 
@@ -11,3 +11,5 @@ permalink: /about/
 <h4>
 	This is some sample content.
 </h4>
+
+Regular text. Blah blah.
