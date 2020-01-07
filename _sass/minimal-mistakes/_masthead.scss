@@ -67,10 +67,8 @@
 
   .site-nav {
     margin-left: 0;
-    font-size: $type-size-2;
-    @include breakpoint($small) {
+    @include breakpoint($large) {
       float: right;
-      font-size: $type-size-2;
     }
   }
 
