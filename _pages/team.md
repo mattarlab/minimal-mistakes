@@ -1,6 +1,6 @@
 ---
 title: Team
-layout: splash
+layout: single
 permalink: /team/
 feature_row:
   - image_path: /assets/images/MarceloMattar.png
