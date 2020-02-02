@@ -16,7 +16,7 @@
     margin-left: auto;
     margin-right: auto;
     padding: 0.5em;
-    max-width: 100%;
+    max-width: 50%;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -83,7 +83,7 @@
     clear: both;
     list-style-type: none;
   }
-  li:before { content: "|"; padding-right: 6px; }
+  li:before { content: "|"; padding-right: 0 px; }
   li:first-child:before { content: ""; padding-right: 0; }
 }
 
