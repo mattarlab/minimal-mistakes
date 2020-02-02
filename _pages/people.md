@@ -1,7 +1,7 @@
 ---
-title: About us
+title: People
 layout: single
-permalink: /about/
+permalink: /people/
 feature_row:
   - image_path: /assets/images/MarceloMattar.png
     title: "Marcelo Mattar"

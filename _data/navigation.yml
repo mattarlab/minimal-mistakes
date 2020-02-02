@@ -6,6 +6,8 @@ main:
     url: /publications/
   - title: "about us"
     url: /about/
+ - title: "join"
+    url: /join/
 
 
   # - title: "about"
