@@ -10,8 +10,3 @@ We want to understand how our brains make complex decisions. Our approach consis
 
 <h5>Research</h5>
 <p>We study Reinforcement learning, planning, memory, network neuroscience, computational neuroscience, probabilistic inference. We want to understand how we learn predictive representations of the world and how we simulate the future when making a decision. 
-
-<p>[write more here]
-
-<h5>Lab Culture</h5>
-<p>Our lab is...

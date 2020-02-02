@@ -8,6 +8,8 @@ feature_row:
     excerpt: "PI"
   - image_path: /assets/images/logo2.png
     title: "You?"
+  - image_path: /assets/images/logo2.png
+    
 ---
 
 <h5> We are hiring - join us! </h5>
