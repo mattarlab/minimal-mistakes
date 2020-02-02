@@ -265,7 +265,7 @@ permalink: /publications/
 </ul>
 
 <!--     </div> -->
-  </div>
+<!--   </div>
 </section>
-</small>
+</small> -->
 <!-- Publications End -->
