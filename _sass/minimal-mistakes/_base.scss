@@ -61,6 +61,11 @@ h5 {
   font-weight: bold;
 }
 
+h6 {
+  margin-top: 0;
+  font-size: $type-size-5;
+}
+
 small,
 .small {
   font-size: $type-size-6;
