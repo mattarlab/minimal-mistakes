@@ -4,8 +4,13 @@ layout: single
 permalink: /about/
 ---
 
-<b> We study </b>
+We want to understand how our brains make complex decisions. 
+Our approach consists of:
+(i) Developing theories and computational models that predict decisions and the processes underlying it. These models incorporate our knowledge of neuroscience and cognitive science in the mathematical language of Reinforcement Learning and Bayesian inference.
+(ii) Grounding these models in behavioral and neuroscientific data from decision-making experiments, conducted either in our lab (human behavior and neuroimaging) or with collaborators (animal electrophysiology).
 
-Reinforcement learning, planning, memory, network neuroscience, computational neuroscience, probabilistic inference. 
+-Research
+We study Reinforcement learning, planning, memory, network neuroscience, computational neuroscience, probabilistic inference. We want to understand how we learn predictive representations of the world and how we simulate the future when making a decision. [write more here]
 
-How we learn predictive representations of the world and how we simulate the future when making a decision.
+-Lab Culture
+Our lab is...
