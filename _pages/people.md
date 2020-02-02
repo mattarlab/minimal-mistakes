@@ -13,7 +13,7 @@ feature_row:
     title: "You?"
 ---
 
-#H2 Members
+Members
 
 <small>
 {% include feature_row %}
