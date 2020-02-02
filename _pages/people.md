@@ -6,14 +6,11 @@ feature_row:
   - image_path: /assets/images/MarceloMattar.png
     title: "Marcelo Mattar"
     excerpt: "PI"
-  - image_path: /assets/images/MarceloMattar.png
-    title: "Name"
-    excerpt: "CogSci Grad Student"
-  - image_path: /assets/images/MarceloMattar.png
+  - image_path: /assets/images/logo2.png
     title: "You?"
 ---
 
-<h4> Members </h4>
+<h5> We are hiring - join us! </h5>
 
 <small>
 {% include feature_row %}
