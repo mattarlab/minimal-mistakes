@@ -30,7 +30,6 @@ h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
   font-family: $header-font-family;
-  font-weight: bold;
 }
 
 
@@ -53,11 +52,13 @@ h3 {
 h4 {
   margin-top: 0;
   font-size: $type-size-4;
+  font-weight: bold;
 }
 
 h5 {
   margin-top: 0;
   font-size: $type-size-5;
+  font-weight: bold;
 }
 
 small,
