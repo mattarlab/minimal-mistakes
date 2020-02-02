@@ -76,6 +76,8 @@
       float: right;
     }
   }
+ 
+  li:before { content: "|"; padding-right: 6px; }
 
   ul {
     margin: 0;
@@ -94,6 +96,6 @@
     padding-right: 2em;
     font-weight: 700;
   }
-  li:before { content: "|"; padding-right: 6px; }
+
   li:first-child:before { content: ""; padding-right: 0; }
 }

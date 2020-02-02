@@ -12,10 +12,9 @@ feature_row:
   - image_path: /assets/images/MarceloMattar.png
     title: "You?"
 ---
-<br>
-We are hiring! Reach out if you are interested in joining the lab as a grad student, postdoc, or research assistant.
-<br>
-<br>
+
+#H2 Members
+
 <small>
 {% include feature_row %}
 
