@@ -71,7 +71,7 @@
   .site-nav {
     margin-left: 0;
     margin-right: auto;
-    li:before { content: "|"; padding-right: 6px; }
+    
     @include breakpoint($x-large) {
       float: right;
     }
@@ -83,6 +83,8 @@
     clear: both;
     list-style-type: none;
   }
+  li:before { content: "|"; padding-right: 6px; }
+  li:first-child:before { content: ""; padding-right: 0; }
 }
 
 .masthead__menu-item {
@@ -95,5 +97,5 @@
     font-weight: 700;
   }
 
-  li:first-child:before { content: ""; padding-right: 0; }
+  
 }
