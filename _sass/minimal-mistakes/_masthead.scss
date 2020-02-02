@@ -62,9 +62,9 @@
 }
 
 .masthead__menu {
-  float: left;
+  float: right;
   margin-left: 0;
-  margin-right: 10;
+  margin-right: auto;
   width: 100%;
   clear: both;
 
@@ -83,8 +83,6 @@
     clear: both;
     list-style-type: none;
   }
-  li:before { content: "|"; padding-right: 6px; }
-  li:first-child:before { content: ""; padding-right: 0; }
 }
 
 .masthead__menu-item {
@@ -96,4 +94,6 @@
     padding-right: 2em;
     font-weight: 700;
   }
+  li:before { content: "|"; padding-right: 6px; }
+  li:first-child:before { content: ""; padding-right: 0; }
 }
