@@ -71,14 +71,12 @@
   .site-nav {
     margin-left: 0;
     margin-right: auto;
-
+    li:before { content: "|"; padding-right: 6px; }
     @include breakpoint($x-large) {
       float: right;
     }
   }
  
-  li:before { content: "|"; padding-right: 6px; }
-
   ul {
     margin: 0;
     padding: 0;
