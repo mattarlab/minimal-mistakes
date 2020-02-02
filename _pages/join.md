@@ -4,7 +4,7 @@ layout: single
 permalink: /join/
 ---
 
-<h3> Join us </h3>
+<h4> Join us </h4>
 
 Understanding the brain and mind is an interdisciplinary challenge. Thus, our lab is always looking for outstanding graduate students and postdocs with a wide variety of interests and expertise, including Cognitive Science, Neuroscience, Psychology, Computer Science, Engineering, Statistics, and others. We are also open to people interested in either modeling/theory and experiments (or both).
 
