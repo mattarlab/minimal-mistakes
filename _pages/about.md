@@ -1,7 +1,7 @@
 ---
-title: Research
+title: About
 layout: single
-permalink: /research/
+permalink: /about/
 ---
 
 <b> We study </b>
