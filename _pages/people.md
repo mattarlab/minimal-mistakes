@@ -3,7 +3,7 @@ title: People
 layout: single
 permalink: /people/
 feature_row:
-  - image_path: /assets/images/MarceloMattar.png
+  - image_path: /assets/images/MarceloMattar2.png
     title: "Marcelo Mattar"
     excerpt: "PI"
   - image_path: /assets/images/logo2.png
