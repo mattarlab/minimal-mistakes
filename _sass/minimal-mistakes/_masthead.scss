@@ -42,7 +42,8 @@
 
 .site-logo img {
   max-height: 2rem;
-  margin-left: 10em;
+  margin-left: auto;
+  padding-left: 1em;
 }
 
 .site-title {
@@ -69,8 +70,10 @@
 
   .site-nav {
     margin-left: 0;
+    margin-right: auto;
+
     @include breakpoint($x-large) {
-      float: left;
+      float: right;
     }
   }
 
@@ -80,7 +83,7 @@
     clear: both;
     list-style-type: none;
   }
-  li:before { content: "|"; padding-right: 3px; }
+  li:before { content: "|"; padding-right: 6px; }
   li:first-child:before { content: ""; padding-right: 0; }
 }
 
