@@ -77,9 +77,10 @@
     }
   }
  
-  ul {
+  ul li a:after{
     margin: 0;
     padding: 0;
+    content: ""|"";
     clear: both;
     list-style-type: none;
   }
@@ -90,8 +91,7 @@
   display: block;
   list-style-type: none;
   white-space: nowrap;
-  li:before { content: "|"; padding-right: 0 px; }
-  li:first-child:before { content: ""; padding-right: 0; }
+
   &--lg {
     padding-right: 2em;
     font-weight: 700;
