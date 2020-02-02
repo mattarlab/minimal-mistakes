@@ -79,7 +79,8 @@
  
   ul li a:after{
     margin: 0;
-    padding: 2em;
+    padding-right: 2em;
+    padding-left: 2em;
     content: "|";
     clear: both;
     list-style-type: none;
