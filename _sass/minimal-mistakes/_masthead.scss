@@ -80,6 +80,8 @@
     clear: both;
     list-style-type: none;
   }
+  li:before { content: "/"; padding-right: 3px; }
+  li:first-child:before { content: ""; padding-right: 0; }
 }
 
 .masthead__menu-item {
