@@ -11,7 +11,9 @@ We want to understand how our brains make complex decisions.
 <p>(ii) Grounding these models in behavioral and neuroscientific data from decision-making experiments, conducted either in our lab (human behavior and neuroimaging) or with collaborators (animal electrophysiology).
 
 <h5>Research</h5>
-We study Reinforcement learning, planning, memory, network neuroscience, computational neuroscience, probabilistic inference. We want to understand how we learn predictive representations of the world and how we simulate the future when making a decision. [write more here]
+<p>We study Reinforcement learning, planning, memory, network neuroscience, computational neuroscience, probabilistic inference. We want to understand how we learn predictive representations of the world and how we simulate the future when making a decision. 
 
-<h5> Lab Culture </h5>
-Our lab is...
+<p>[write more here]
+
+<h5>Lab Culture</h5>
+<p>Our lab is...
