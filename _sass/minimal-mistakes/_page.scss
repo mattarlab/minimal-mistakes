@@ -95,8 +95,7 @@ body {
 .people_row {
         display: flex;
         flex-direction: row;
-        align-items: flex-start;
-        justify-content:space-around;
+        justify-content:space-between;
         min-width:50vw;
         margin: 30% 30%;
 }
