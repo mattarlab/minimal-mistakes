@@ -1,5 +1,5 @@
 ---
-title: Join
+title: join
 layout: single
 permalink: /join/
 ---
