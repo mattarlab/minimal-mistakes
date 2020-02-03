@@ -31,7 +31,7 @@
           </div>
         {% endif %}
 
-        <div class="archive__ite m-body">
+        <div class="archive__item-body">
           {% if f.title %}
             <h6 class="archive__item-title">{{ f.title }}</h6>
           {% endif %}
