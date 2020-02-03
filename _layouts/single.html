@@ -75,8 +75,15 @@ layout: default
   {% endif %}
 </div>
 
+    <div id="footer" class="page__footer">
+      <footer>
+        {% include footer/custom.html %}
+        {% include_cached footer.html %}
+      </footer>
+    </div>
 
-{% if page.url != "/" and site.breadcrumbs %}
+    {% include scripts.html %}
+    {% if page.url != "/" and site.breadcrumbs %}
   {% unless paginator %}
     {% include breadcrumbs.html %}
   {% endunless %}
