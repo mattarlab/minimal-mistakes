@@ -7,9 +7,14 @@ permalink: /people/
 
 <div class="people_row">
 
-![PI](/assets/images/MarceloMattar2.png "Marcelo Mattar")
-
-![member](/assets/images/surfer.jpeg "You?")
+<figure>
+    <a href="/assets/images/MarceloMattar2.png"><img src="/assets/images/MarceloMattar2.png"></a>
+    <figcaption>Marcelo Mattar<br>PI</figcaption>
+</figure>
+<figure>
+    <img src="/assets/images/surfer.jpeg"></a>
+    <figcaption>You?</figcaption>
+</figure>
 
 </div>
 
