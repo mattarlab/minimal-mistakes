@@ -6,9 +6,9 @@
   position: relative;
   padding-top:1em;
   padding-bottom:3em;
-  padding-left:1em;
-  padding-right:200px;
-  width: calc(100% - 200px);
+  padding-left:75px;
+  padding-right:75px;
+  width: calc(100% - 150px);
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
