@@ -4,10 +4,7 @@
 
 .masthead {
   position: relative;
-  padding-top:1em;
-  padding-bottom:3em;
-  padding-left:3em;
-  padding-right:3em;
+  border-bottom: 1px solid $border-color;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -18,7 +15,7 @@
     @include clearfix;
     margin-left: auto;
     margin-right: auto;
-    padding: 0.5em;
+    padding: 1em;
     max-width: 100%;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -27,7 +24,6 @@
     -ms-flex-pack: justify;
     justify-content: space-between;
     font-family: $sans-serif-narrow;
-    font-size: $type-size-4;
 
     @include breakpoint($x-large) {
       max-width: $max-width;
@@ -45,8 +41,6 @@
 
 .site-logo img {
   max-height: 2rem;
-  margin-left: auto;
-  padding-left: 1em;
 }
 
 .site-title {
@@ -66,28 +60,25 @@
 
 .masthead__menu {
   float: left;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
   width: 100%;
   clear: both;
 
   .site-nav {
     margin-left: 0;
-    margin-right: auto;
-    
-    @include breakpoint($x-large) {
+
+    @include breakpoint($small) {
       float: right;
     }
   }
- 
+
   ul {
     margin: 0;
-    padding-right: 0;
-    padding-left: 0;
+    padding: 0;
     clear: both;
     list-style-type: none;
   }
-
 }
 
 .masthead__menu-item {
@@ -96,9 +87,7 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 0;
+    padding-right: 2em;
     font-weight: 700;
   }
-
-  
 }
