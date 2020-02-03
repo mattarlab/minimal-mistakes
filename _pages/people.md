@@ -7,11 +7,11 @@ permalink: /people/
 
 <div class="people_row">
 <figure>
-    <img src="/assets/images/MarceloMattar2.png">
+    <img src=/assets/images/MarceloMattar2.png>
     <figcaption>Marcelo Mattar<br>PI</figcaption>
 </figure>
 <figure>
-    <img src="/assets/images/surfer.jpeg">
+    <img src=/assets/images/surfer.jpeg>
     <figcaption>You?</figcaption>
 </figure>
 
