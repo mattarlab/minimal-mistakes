@@ -1,5 +1,5 @@
 ---
-title: Publications
+title: publications
 layout: single
 <!-- classes: wide -->
 permalink: /publications/

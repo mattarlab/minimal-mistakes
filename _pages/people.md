@@ -1,5 +1,5 @@
 ---
-title: People
+title: people
 layout: single
 permalink: /people/
 feature_row:
