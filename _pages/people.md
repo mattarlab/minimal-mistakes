@@ -14,6 +14,8 @@ feature_row:
 ---
 ##### We are hiring - join us!
 
+<br>
+
 <small>
 {% include feature_row %}
 
