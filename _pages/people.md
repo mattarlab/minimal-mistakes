@@ -6,7 +6,7 @@ feature_row:
   - image_path: /assets/images/MarceloMattar2.png
     title: "Marcelo Mattar"
     excerpt: "PI"
-  - image_path: /assets/images/brain.jpeg
+  - image_path: /assets/images/surfer.jpeg
     title: "You?"
     
 ---
