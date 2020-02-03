@@ -43,13 +43,14 @@
   .fab,
   .far,
   .fal {
-    color: $muted-text-color;
+    color: $light-gray;
   }
 }
 
 .page__footer-copyright {
   font-family: $global-font-family;
   font-size: $type-size-7;
+  color:$light-gray;
 }
 
 
