@@ -7,8 +7,8 @@ feature_row:
     title: "Marcelo Mattar"
     excerpt: "PI"
   - image_path: 
-    title: ""
-    excerpt: "CogSci Grad Student"
+    title: " "
+    excerpt: " "
   - image_path: /assets/images/surfer.jpg
     title: "You?"
 ---
