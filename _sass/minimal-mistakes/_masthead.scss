@@ -6,9 +6,7 @@
   position: relative;
   padding-top:1em;
   padding-bottom:3em;
-  padding-left:75px;
-  padding-right:75px;
-  width: calc(100% - 150px);
+  width: 100%;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
@@ -66,9 +64,9 @@
 
 .masthead__menu {
   float: left;
-  margin-left: auto;
+  margin-left: 0;
   margin-right: auto;
-  width: 80%;
+  width: 90%;
   clear: both;
 
   .site-nav {
